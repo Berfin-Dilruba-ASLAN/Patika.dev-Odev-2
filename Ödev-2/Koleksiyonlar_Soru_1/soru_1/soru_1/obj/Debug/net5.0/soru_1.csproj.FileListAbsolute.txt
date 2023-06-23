@@ -1,0 +1,16 @@
+C:\Users\Sercan\Desktop\patika.dev\Ödev-2\Koleksiyonlar_Soru_1\soru_1\soru_1\obj\Debug\net5.0\soru_1.csproj.AssemblyReference.cache
+C:\Users\Sercan\Desktop\patika.dev\Ödev-2\Koleksiyonlar_Soru_1\soru_1\soru_1\obj\Debug\net5.0\soru_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sercan\Desktop\patika.dev\Ödev-2\Koleksiyonlar_Soru_1\soru_1\soru_1\obj\Debug\net5.0\soru_1.AssemblyInfoInputs.cache
+C:\Users\Sercan\Desktop\patika.dev\Ödev-2\Koleksiyonlar_Soru_1\soru_1\soru_1\obj\Debug\net5.0\soru_1.AssemblyInfo.cs
+C:\Users\Sercan\Desktop\patika.dev\Ödev-2\Koleksiyonlar_Soru_1\soru_1\soru_1\obj\Debug\net5.0\soru_1.csproj.CoreCompileInputs.cache
+C:\Users\Sercan\Desktop\patika.dev\Ödev-2\Koleksiyonlar_Soru_1\soru_1\soru_1\bin\Debug\net5.0\soru_1.exe
+C:\Users\Sercan\Desktop\patika.dev\Ödev-2\Koleksiyonlar_Soru_1\soru_1\soru_1\bin\Debug\net5.0\soru_1.deps.json
+C:\Users\Sercan\Desktop\patika.dev\Ödev-2\Koleksiyonlar_Soru_1\soru_1\soru_1\bin\Debug\net5.0\soru_1.runtimeconfig.json
+C:\Users\Sercan\Desktop\patika.dev\Ödev-2\Koleksiyonlar_Soru_1\soru_1\soru_1\bin\Debug\net5.0\soru_1.runtimeconfig.dev.json
+C:\Users\Sercan\Desktop\patika.dev\Ödev-2\Koleksiyonlar_Soru_1\soru_1\soru_1\bin\Debug\net5.0\soru_1.dll
+C:\Users\Sercan\Desktop\patika.dev\Ödev-2\Koleksiyonlar_Soru_1\soru_1\soru_1\bin\Debug\net5.0\ref\soru_1.dll
+C:\Users\Sercan\Desktop\patika.dev\Ödev-2\Koleksiyonlar_Soru_1\soru_1\soru_1\bin\Debug\net5.0\soru_1.pdb
+C:\Users\Sercan\Desktop\patika.dev\Ödev-2\Koleksiyonlar_Soru_1\soru_1\soru_1\obj\Debug\net5.0\soru_1.dll
+C:\Users\Sercan\Desktop\patika.dev\Ödev-2\Koleksiyonlar_Soru_1\soru_1\soru_1\obj\Debug\net5.0\ref\soru_1.dll
+C:\Users\Sercan\Desktop\patika.dev\Ödev-2\Koleksiyonlar_Soru_1\soru_1\soru_1\obj\Debug\net5.0\soru_1.pdb
+C:\Users\Sercan\Desktop\patika.dev\Ödev-2\Koleksiyonlar_Soru_1\soru_1\soru_1\obj\Debug\net5.0\soru_1.genruntimeconfig.cache
